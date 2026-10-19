@@ -7,13 +7,6 @@
 ## Deskripsi
 Website company profile untuk perusahaan fiktif **Lintas Digital** (software house di Bandung), dibuat dengan React (Vite), Tailwind CSS, dan React Router. Terdiri dari lima halaman: Beranda, Tentang Kami, Layanan, Portofolio, dan Kontak (form dengan validasi). Data konten disimpan di `src/data/content.js` dan ditampilkan dengan `map()`. Tampilan responsif untuk desktop dan mobile.
 
-## Cara Menjalankan
-```bash
-npm install
-npm run dev
-```
-Buka alamat yang tampil di terminal (biasanya http://localhost:5173).
-
 ## Screenshot
 | Halaman | Screenshot |
 |---|---|

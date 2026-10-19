@@ -13,5 +13,5 @@ Website company profile untuk perusahaan fiktif **Lintas Digital** (software hou
 | Beranda | ![Beranda](screenshots/home.png) |
 | Tentang Kami | ![Tentang](screenshots/about.png) |
 | Layanan | ![Layanan](screenshots/services.png) |
-| Portofolio | ![Portofolio](screenshots/portfolio.png) |
+| Portofolio | ![Portofolio](screenshots/portofolio.png) |
 | Kontak | ![Kontak](screenshots/contact.png) |
